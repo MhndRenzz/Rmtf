@@ -1,7 +1,7 @@
 # Rmtf
 Kontoll
 
-#install dulu njing
+# install dulu njing
 
 # pkg update && pkg upgrade
 # pkg install python git
@@ -13,6 +13,6 @@ Kontoll
 #Jalan Kan Sc Nya
 
 
- $ cd Rmtf
- $ git pull
- $ python Rmtf4.py
+# cd Rmtf
+# git pull
+# python Rmtf4.py
